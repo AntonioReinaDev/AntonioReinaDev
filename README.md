@@ -36,6 +36,6 @@
   <a href="https://www.linkedin.com/in/antonio-reina-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5516993547892&text=Olá%20Antonio,%20lhe%20encontrei%20no%20GITHUB!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AntonioReinaDev/AntonioReinaDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
