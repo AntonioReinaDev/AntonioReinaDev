@@ -25,7 +25,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
           
-  <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66280255/185818212-7184ec28-041f-4ee1-aefe-f8b2f2152a06.png">
+  <img align="right" height="150" style="border-radius:50px;padding-top: 25px;" src="https://user-images.githubusercontent.com/66280255/185818212-7184ec28-041f-4ee1-aefe-f8b2f2152a06.png">
 </div>
   
   ##
